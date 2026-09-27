@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="SafePatch-AI-thumbnail.png"
-       alt="SafePatch AI evidence-grounded software repair dashboard"
-       width="100%">
-</p>
-
 # SafePatch AI — Evidence-Grounded Software Repair
 
 <p align="center">
@@ -51,7 +45,7 @@ SafePatch AI acts as a release-safety checkpoint. It analyzes repository structu
 
 ## Demonstration Workflow
 
-text
+'''text
 Repository + Bug Report
           ↓
 Repository Analysis
