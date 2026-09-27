@@ -45,7 +45,7 @@ SafePatch AI acts as a release-safety checkpoint. It analyzes repository structu
 
 ## Demonstration Workflow
 
-'''text
+```text
 Repository + Bug Report
           ↓
 Repository Analysis
