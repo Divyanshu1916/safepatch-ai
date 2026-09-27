@@ -43,6 +43,24 @@ SafePatch AI acts as a release-safety checkpoint. It analyzes repository structu
 - IBM Bob 2.0 development evidence
 - Markdown audit-report export
 
+## Live Demo
+
+Open the deployed SafePatch AI application:
+
+[Launch SafePatch AI](https://ais-dev-4xpqiyk3b5tlfpe332tcww-902987922810.asia-east1.run.app/)
+
+## Google AI Studio Project
+
+View and edit the SafePatch AI project:
+
+[Open Google AI Studio Project](https://ai.studio/apps/5de1c091-76ca-4491-a942-5762b5d03434)
+
+## GitHub Repository
+
+View the source code and documentation:
+
+[Open GitHub Repository](https://github.com/Divyanshu1916/safepatch-ai)
+
 ## Demonstration Workflow
 
 ```text
